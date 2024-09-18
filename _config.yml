@@ -12,7 +12,7 @@ title                    : "Daniel Tisdale"
 title_separator          : "-"
 name                     : &name "Daniel Tisdale"
 description              : &description "Computer Vision @ Modality | CS MSc. @ Cal Poly, SLO"
-url                      : https://danieltisdale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dctisdale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dctisdale"
 
