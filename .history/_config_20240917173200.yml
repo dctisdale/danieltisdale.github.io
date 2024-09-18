@@ -21,7 +21,7 @@ repository               : "https://github.com/dctisdale.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://dctisdale.github.io/images/daniel_image1.jpg"
+  avatar           : "https://dctisdale/images/daniel_image1.jpg"
   name             : "Daniel Tisdale"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision @ Modality<br>CS B.S. + M.S. @ Cal Poly SLO"

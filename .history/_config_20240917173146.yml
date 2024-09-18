@@ -14,14 +14,14 @@ name                     : &name "Daniel Tisdale"
 description              : &description "Computer Vision @ Modality<br>CS B.S. + M.S. @ Cal Poly SLO"
 url                      : https://dctisdale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/dctisdale.github.io"
+repository               : "https://github.com/dctisdale"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://dctisdale.github.io/images/daniel_image1.jpg"
+  avatar           : "https://dctisdale/images/daniel_image1.jpg"
   name             : "Daniel Tisdale"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision @ Modality<br>CS B.S. + M.S. @ Cal Poly SLO"
